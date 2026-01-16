@@ -42,10 +42,17 @@ Common Attack Surfaces:
 User → [Browser/App] → [Load Balancer] → [Web Server] → [Application Server] → [Database]
 
 Attack Points:
-1. User Device: Malware, keyloggers
-2. Network Transmission: Packet sniffing, MITM attacks
-3. Load Balancer: DDoS attacks
-4. Web Server: Server misconfigurations, outdated software
-5. Application Server: Business logic flaws, insecure APIs
-6. Database: SQL injection, unauthorized data access
-7. Human User: Social engineering, credential sharing
+
+    1. User Device          : Malware, keyloggers
+    
+    2. Network Transmission : Packet sniffing, MITM attacks
+    
+    3. Load Balancer        : DDoS attacks
+    
+    4. Web Server           : Server misconfigurations, outdated software
+    
+    5. Application Server   : Business logic flaws, insecure APIs
+    
+    6. Database             : SQL injection, unauthorized data access
+    
+    7. Human User           : Social engineering, credential sharing
