@@ -29,6 +29,3 @@ This repository documents my practical learning and implementation of **Operatin
 ✔ OS security best practices documentation  
 
 ---
-
-## 📂 Repository Structure
-
