@@ -12,3 +12,8 @@ sudo ufw deny 80
 ```bash
 https://github.com/DinooBose/Setup-and-Use-a-Firewall-on-Linux?tab=readme-ov-file
 ```
+## Benefits
+
+* Blocks unauthorized traffic
+
+* Reduces exposed attack surface
