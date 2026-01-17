@@ -1,0 +1,8 @@
+ls -l
+chmod 700 file.txt
+chown root:root file.txt
+sudo ufw enable
+systemctl list-units --type=service
+ps aux
+whoami
+id
