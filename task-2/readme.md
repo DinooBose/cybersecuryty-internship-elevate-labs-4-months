@@ -29,3 +29,30 @@ This repository documents my practical learning and implementation of **Operatin
 ✔ OS security best practices documentation  
 
 ---
+
+---
+
+## 🔐 Key Concepts Covered
+
+- OS Hardening
+- Least Privilege Principle
+- Root vs Normal Users
+- File Permission Models
+- Service Hardening
+
+---
+
+## 📄 Final Outcome
+
+Gained practical understanding of OS-level security mechanisms and how system misconfigurations can be exploited or prevented.
+
+---
+
+## 👨‍💻 Author
+
+**Field:** Cyber Security / Ethical Hacking  
+**Platform:** Kali Linux  
+
+---
+
+⭐ If you found this useful, feel free to star the repo!
